@@ -90,14 +90,14 @@ body {
 	background-size: cover;
 }
 
-.jumbotron h1 {
+h1 {
 	color: #ffffff;
 	font-size: 4em;
 	padding-top: 70px;
 }
 
 
-.jumbotron h5 {
+h5 {
 	padding: 0 20px 40px;
 }
 
