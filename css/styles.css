@@ -35,20 +35,20 @@ body {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
 	color: #ffffff;
-	background-color: #002462;
+	background-color: #094BA9;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
 	color: #ffffff;
-	background-color: #002462;
+	background-color: #094BA9;
 }
 .navbar-default .navbar-toggle {
 
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-	background-color: #002462;
+	background-color: #094BA9;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #ffffff;
@@ -75,7 +75,7 @@ body {
 	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
 	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
 		color: #ffffff;
-		background-color: #002462;
+		background-color: #094BA9;
 	}
 }
 
